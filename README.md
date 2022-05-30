@@ -105,7 +105,10 @@ endmodule
 
 ### TIMING DIGRAMS  :
 ![demux](./demux1.png)
-![demux]()
+![m1](./m1.jpeg)
+![m2](./m2.jpeg)
+![m3](./m3.jpeg)
+![m4](./m4.jpeg)
 
 
 
